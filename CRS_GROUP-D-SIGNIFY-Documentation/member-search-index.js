@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.signify.client","c":"CRSApplicationMenu","l":"CRSApplicationMenu()","u":"%3Cinit%3E()"},{"p":"com.signify.client","c":"CRSApplicationMenu","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
